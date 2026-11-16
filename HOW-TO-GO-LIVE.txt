@@ -1,0 +1,7 @@
+HOW TO PUT THE WEBSITE ONLINE WITH A WORKING QUOTE FORM (free)
+1. Unzip this file. You will get a folder named lifetime-site containing index.html.
+2. Go to app.netlify.com/drop and drag the lifetime-site folder onto the page.
+3. Netlify gives you a live link. In Site configuration > Domain management you can add your own domain.
+4. For emails: open your site > Forms > Form notifications > Add notification > Email notification,
+   and enter lifetimeengineering2021@gmail.com (add Ltesolns@gmail.com and pujangautam5@gmail.com the same way if wanted).
+Every quote request is then emailed to you and also saved in the Forms tab.
